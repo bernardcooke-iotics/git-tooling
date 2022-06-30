@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.0 (2022-06-30)
+### Feature
+* Update README.md ([`f7f7637`](https://github.com/bernardcooke-iotics/git-tooling/commit/f7f7637cdb987e241b63f7000c4365089f02097a))
+
 ## v0.2.1 (2022-06-30)
 ### Fix
 * Remove pre-commit hook ([`8974e3b`](https://github.com/bernardcooke-iotics/git-tooling/commit/8974e3ba00f3c6503075071c8b0df8e4f9db6edb))
