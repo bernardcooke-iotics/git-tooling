@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.1 (2022-06-30)
+### Fix
+* Remove pre-commit hook ([`8974e3b`](https://github.com/bernardcooke-iotics/git-tooling/commit/8974e3ba00f3c6503075071c8b0df8e4f9db6edb))
+
 ## v0.2.0 (2022-06-30)
 ### Feature
 * Add CHANGELOG ([`5023e5e`](https://github.com/bernardcooke-iotics/git-tooling/commit/5023e5e8ce44749878e9f08d477f33ac941e9d47))
