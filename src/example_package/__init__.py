@@ -2,4 +2,4 @@
 
 from .hello_world import hello_world
 
-__version__ = "0.0.0"
+__version__ = "0.1.0"
