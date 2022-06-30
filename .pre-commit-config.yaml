@@ -54,13 +54,6 @@ repos:
                     "--report-path=./gitleaks-report.json",
                 ]
 
-    - repo: https://github.com/Lucas-C/pre-commit-hooks-safety
-      rev: v1.2.4
-      hooks:
-          - id: python-safety-dependencies-check
-            files: "pyproject.toml"
-            args: ["--short-report"]
-
     - repo: https://github.com/pycqa/bandit
       rev: 1.7.4
       hooks:
