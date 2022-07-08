@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.0 (2022-07-08)
+### Feature
+* JIRA-123 | Important feature ([`9ad599e`](https://github.com/bernardcooke-iotics/git-tooling/commit/9ad599ee6710307ce3403f03f2c50c2657a4c4d5))
+
 ## v0.3.0 (2022-06-30)
 ### Feature
 * Update README.md ([`f7f7637`](https://github.com/bernardcooke-iotics/git-tooling/commit/f7f7637cdb987e241b63f7000c4365089f02097a))
