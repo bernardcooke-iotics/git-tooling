@@ -3,4 +3,4 @@
 from .big_feature import today
 from .hello_world import hello_world
 
-__version__ = "0.4.0"
+__version__ = "0.4.1"

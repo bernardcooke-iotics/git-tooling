@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.1 (2022-07-08)
+### Fix
+* JIRA-234 | Imported function to top-level namespace ([`14d3a75`](https://github.com/bernardcooke-iotics/git-tooling/commit/14d3a7570fb426b38a40e21ff1466e503922b45e))
+
 ## v0.4.0 (2022-07-08)
 ### Feature
 * JIRA-123 | Important feature ([`9ad599e`](https://github.com/bernardcooke-iotics/git-tooling/commit/9ad599ee6710307ce3403f03f2c50c2657a4c4d5))
